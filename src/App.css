@@ -22,7 +22,8 @@ button:not(:disabled){
   font-size: 35px;
   text-align: center;
   padding-bottom: 5px;
-
+  color: white;
+  font-style:italic;
 }
 body{
   background-color: rgb(107, 80, 167);
